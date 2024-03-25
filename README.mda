@@ -5,3 +5,5 @@ This repo contains code snippets for -
 2)mnist image classification - Mnist image classification using CNNs, neural nets etc.
 
 3)vgg16 - code implementation of vgg16 object detection model working code using keras/tensorflow .
+
+4) image sharpening , blurring (average , Gaussian ) using code snippets on a given input image , these blurring techniques are used in blending in images after using deepfake and face swapping in generative ai , diffusion models.
