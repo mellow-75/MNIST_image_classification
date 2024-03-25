@@ -1,3 +1,7 @@
-1) aruco detection -  detecting aruco markers using opencv's built in aruco class
-2)mnist image classification - classifying hand written numbers using neural net from tensorflow 
-3)vgg16 - vgg16 object detection model working code using keras/tensorflow 
+This repo contains code snippets for -
+
+1) aruco detection -  detecting aruco markers using opencv's built in aruco class , this utility was utilised in a automated computer vision based billing system
+
+2)mnist image classification - Mnist image classification using CNNs, neural nets etc.
+
+3)vgg16 - code implementation of vgg16 object detection model working code using keras/tensorflow .
